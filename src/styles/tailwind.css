@@ -14325,9 +14325,9 @@ video {
   transition-delay: 1000ms;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap%27');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap');
 
-@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css%27');
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
 
 @media (min-width: 640px) {
   .sm\:space-y-0 > :not(template) ~ :not(template) {
